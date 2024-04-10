@@ -1,5 +1,1 @@
-# Wall-Street-Quant
-# Wall-Street-Quant
-# Wall-Street-Quant
-# Wall-Street-Quant
-# Wall-Street-Quant
+This Project involves understanding and analysing stock pattern movements and trends though Y-Finance Library and Python. It involves using trading strategies and applying them to real-time markets using Python and APIs.
